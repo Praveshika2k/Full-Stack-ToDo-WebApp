@@ -13,7 +13,7 @@ This app helps you **organize, manage, and track tasks efficiently**, all in a c
 - ✅ **Mark as Complete** – Track your progress by checking off completed tasks.  
 - 🗑️ **Delete Tasks** – Remove tasks you no longer need.  
 - 📊 **Interactive UI** – Clean layout with smooth task management flow.  
-- 🌐 **Fully Deployed** – Hosted on **Vercel** for seamless access.  
+- 🌐 **Deployed** – Frontend hosted on **Vercel**, backend on **Render**.  
 - 🎨 **Dark Mode Optimized** – The app works best in **dark mode**, providing a modern and elegant user experience.  
 
 ---
@@ -23,7 +23,7 @@ This app helps you **organize, manage, and track tasks efficiently**, all in a c
 - **Frontend:** React.js  
 - **Backend:** Node.js / Express  
 - **Database:** MongoDB  
-- **Deployment:** Vercel  
+- **Deployment:** Vercel (Frontend) + Render (Backend)  
 
 ---
 
@@ -47,6 +47,4 @@ The complete source code is available in this GitHub repository.
 3. Mark them complete or delete them as needed.  
 4. Enjoy organizing your day with a sleek dark-mode experience!  
 
----
 
-💡 *This project was created and deployed by **Praveshika** as a hands-on full-stack web development project.*  
